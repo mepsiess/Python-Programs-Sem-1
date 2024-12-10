@@ -24,3 +24,6 @@ else:
   print("There are no real roots.")
 
 ```
+
+![image](https://github.com/mepsiess/Python-Programs-Sem-1/blob/main/1.png?raw=true)
+
