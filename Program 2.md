@@ -24,6 +24,30 @@ if n > 1 :
 
 ![image](https://github.com/mepsiess/images-repo/blob/main/4.png?raw=true)
 
+b)
+
+```
+n = int(input("Enter value: "))
+
+for num in range (1,n) :
+
+    if num > 1 :
+
+        for i in range (2,num) :
+
+            if num % i == 0 :
+
+                break 
+
+            else :
+
+                print(num, end = ",")
+
+```
+
+![image](https://github.com/mepsiess/images-repo/blob/main/5.png?raw=true)
+
+
 
 
 
