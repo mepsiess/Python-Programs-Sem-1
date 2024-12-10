@@ -27,3 +27,5 @@ else:
 
 ![image](https://github.com/mepsiess/Python-Programs-Sem-1/blob/main/1.png?raw=true)
 
+![image](https://github.com/mepsiess/Python-Programs-Sem-1/blob/main/2.png?raw=true)
+
